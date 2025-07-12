@@ -88,8 +88,8 @@
 
 - 📘 Zenn（構築中）
 - 📓 Qiita（構築中）
-- 📝 Notion職務経歴書（構築中）
-<iframe src="https://western-strand-3cd.notion.site/ebd/22ea65d44735808faf63dcb7ff9b80a3" width="100%" height="600" frameborder="0" allowfullscreen />
+- 📝 [Notion職務経歴書](#https://western-strand-3cd.notion.site/22ea65d44735808faf63dcb7ff9b80a3?source=copy_link)
+  
 ---
 
 ## 🧒 少しだけパーソナルな話
