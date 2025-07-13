@@ -93,9 +93,9 @@
 
 ## ✨ 発信・SNS
 
-- 📘 Zenn（近日公開予定）
+- 📘 Zenn: [閲覧はこちら](https://zenn.dev/masuda_hikari)
 - 📓 Qiita（近日公開予定）
-- 📝 Notion職務経歴書：[閲覧はこちら](https://western-strand-3cd.notion.site/22ea65d44735808faf63dcb7ff9b80a3?source=copy_link)
+- 📝 Notion職務経歴書 :[閲覧はこちら](https://western-strand-3cd.notion.site/22ea65d44735808faf63dcb7ff9b80a3?source=copy_link)
 
   
 ---
