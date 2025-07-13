@@ -87,7 +87,7 @@
 |----------|------|------|
 | [vba-tools-portfolio](https://github.com/masuda-hikari/vba-tools-portfolio) | VBA / WinAPI | ブラウザ・Citrix・人事システム連携ツール群（再現） |
 | [crypto-bot-python](https://github.com/masuda-hikari/crypto-bot-python) | Python / ML | テクニカル分析＋予測Bot |
-| [rust-bot-experiment](#) | Rust | 非同期・並列処理Bot構築 |
+| [rust-bot-experiment](https://github.com/masuda-hikari/rust-bot-experiment) | Rust | 非同期・並列処理Bot構築 |
 
 ---
 
