@@ -13,7 +13,7 @@
 | 分野 | 技術・ツール |
 |------|---------------|
 | 業務自動化 | Excel/Access/Outlook VBA / WinAPI / PowerAutomate（Cloud & Desktop）<br>RPA by VBA（DOM(IEモード) / WebDriver / Chrome Devtools Protocol / RDP経由(Citrix等)環境対応） |
-| AI駆動・アシスト開発 | ChatGPT / GitHub Copilot / Claude / Gemini |
+| AI活用 | ChatGPT / GitHub Copilot / Claude / Gemini |
 | サーバレス / バックエンド | Python（Bot / API）/ Rust / AWS Lambda / S3 / Node.js（学習中） |
 | フロントエンド | TypeScript / HTML + CSS + JS（基礎） |
 | データ処理・分析 | Pandas / Excel Power Query / Power BI / CSV, JSON parsing |
@@ -57,6 +57,7 @@
     - 汎用メール一括自動生成（メールの宛先別に送信先・件名・本文・添付ファイルをカスタム可能）
     - 勤労統計等提出用自動集計
     - その他
+    実装ツールは導入半年後も継続運用率100％
 
 ---
 
