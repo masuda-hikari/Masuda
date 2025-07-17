@@ -19,7 +19,7 @@
 | サーバレス / バックエンド | Python（Bot / API）/ Rust / AWS Lambda / S3 / Node.js（学習中） |
 | フロントエンド | TypeScript / HTML + CSS + JS（基礎） |
 | データ処理・分析 | Pandas / Excel Power Query / Power BI / CSV, JSON parsing |
-| その他 | Git / GitHub / Notion / Zenn / VSCode |
+| その他 | Git / GitHub / Notion / Zenn / VSCode / Cursor |
 
 ---
 
