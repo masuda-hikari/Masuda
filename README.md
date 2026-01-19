@@ -161,13 +161,22 @@
 
 ---
 
-## 📁 ポートフォリオ（構築中/一部公開）
+## 📁 ポートフォリオ（Public リポジトリ）
 
 | タイトル | 技術 | 説明 |
 |----------|------|------|
-| [vba-tools-portfolio](https://github.com/masuda-hikari/vba-tools-portfolio) | VBA / WinAPI | ブラウザ・Citrix・人事システム連携ツール群（再現） |
-| [crypto-bot-python](https://github.com/masuda-hikari/crypto-bot-python) | Python / ML | テクニカル分析＋予測Bot |
-| [rust-bot-experiment](https://github.com/masuda-hikari/rust-bot-experiment) | Rust | 非同期・並列処理Bot構築 |
+| [vba-tools-portfolio](https://github.com/masuda-hikari/vba-tools-portfolio) | VBA / WinAPI | 業務自動化VBAツール群（再現） |
+| [crypto-bot-python](https://github.com/masuda-hikari/crypto-bot-python) | Python / ML | テクニカル分析＋機械学習による自動売買Bot |
+| [rust-bot-experiment](https://github.com/masuda-hikari/rust-bot-experiment) | Rust | 非同期処理Bot実験（高速化と堅牢性の検証） |
+| [SecureBackup](https://github.com/masuda-hikari/SecureBackup) | Tauri / TypeScript / Rust | 暗号化バックアップツール |
+| [TaskMasterAI](https://github.com/masuda-hikari/TaskMasterAI) | Python / LLM | AI生産性自動化アシスタント |
+| [DevBuddyAI](https://github.com/masuda-hikari/DevBuddyAI) | Python / LLM | AI開発支援アシスタント |
+| [InsightAnalyzerAI](https://github.com/masuda-hikari/InsightAnalyzerAI) | Python / LLM | データ分析・インサイト抽出AI |
+| [VisionCraftAI](https://github.com/masuda-hikari/VisionCraftAI) | Python / 画像生成 | AI画像生成・編集プラットフォーム |
+| [SocialBoostAI](https://github.com/masuda-hikari/SocialBoostAI) | Python / LLM | SNSマーケティング自動化AI |
+| [EcomTrendAI](https://github.com/masuda-hikari/EcomTrendAI) | Python / LLM | ECトレンド分析・商品提案AI |
+| [LearnBuddyAI](https://github.com/masuda-hikari/LearnBuddyAI) | Python / LLM | AI学習支援パーソナルチューター |
+| [SupportGenieAI](https://github.com/masuda-hikari/SupportGenieAI) | Python / LLM | AIカスタマーサポートチャットボット |
 
 ---
 
